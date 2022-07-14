@@ -1,0 +1,119 @@
+# Vim 8.1 generÃ³ este archivo "viminfo".
+# Puede editarlo, Â¡sÃ³lo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribiÃ³ este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de LÃ­nea de Ã³rdenes (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
+:q
+|2,0,1654373154,,"q"
+:wq
+|2,0,1653977468,,"wq"
+:qa!
+|2,0,1650572851,,"qa!"
+:qs!
+|2,0,1650572846,,"qs!"
+:help
+|2,0,1650572784,,"help"
+:save
+|2,0,1650572775,,"save"
+:qs
+|2,0,1650572763,,"qs"
+:q!
+|2,0,1650572701,,"q!"
+
+# Historia de Cadena de bÃºsqueda (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
+
+# Historia de ExpresiÃ³n (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
+
+# Historia de LÃ­nea de entrada (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
+
+# Historia de Debug Line (de lo mÃ¡s nuevo a lo mÃ¡s antiguo):
+
+# Registros:
+"1	LINE	0
+	aaaait	i	sdasasdasd
+|3,0,1,1,1,0,1650572676,"aaaait	i	sdasasdasd"
+"q	CHAR	0
+	Qq
+|3,0,26,0,1,0,1650572652,"Qq"
+"u	CHAR	0
+	it	€ýa€ýa€ýa€ýa€ýa€kr€kr€krasdasasdasd€ýa	
+|3,0,30,0,1,0,1650572649,"it	€ýa€ýa€ýa€ýa€ýa€kr€kr€krasdasasdasd€ýa	"
+""-	CHAR	0
+	d
+|3,1,36,0,1,0,1650572765,"d"
+
+# Marcas en el archivo:
+'0  1  7  ~/Ejercicio1/Arch1.txt
+|4,48,1,7,1653977468,"~/Ejercicio1/Arch1.txt"
+'1  48  0  /usr/share/vim/vim81/doc/help.txt
+|4,49,48,0,1650572851,"/usr/share/vim/vim81/doc/help.txt"
+'2  1  0  ~/Ejercicio1/test.sh
+|4,50,1,0,1650572701,"~/Ejercicio1/test.sh"
+'3  1  0  ~/Ejercicio1/test.sh
+|4,51,1,0,1650572701,"~/Ejercicio1/test.sh"
+
+# Lista de saltos (el mÃ¡s reciente va primero):
+-'  1  7  ~/Ejercicio1/Arch1.txt
+|4,39,1,7,1653977468,"~/Ejercicio1/Arch1.txt"
+-'  1  7  ~/Ejercicio1/Arch1.txt
+|4,39,1,7,1653977468,"~/Ejercicio1/Arch1.txt"
+-'  48  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,48,0,1650572851,"/usr/share/vim/vim81/doc/help.txt"
+-'  48  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,48,0,1650572851,"/usr/share/vim/vim81/doc/help.txt"
+-'  48  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,48,0,1650572851,"/usr/share/vim/vim81/doc/help.txt"
+-'  48  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,48,0,1650572851,"/usr/share/vim/vim81/doc/help.txt"
+-'  1  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,1,0,1650572784,"/usr/share/vim/vim81/doc/help.txt"
+-'  1  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,1,0,1650572784,"/usr/share/vim/vim81/doc/help.txt"
+-'  1  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,1,0,1650572784,"/usr/share/vim/vim81/doc/help.txt"
+-'  1  0  /usr/share/vim/vim81/doc/help.txt
+|4,39,1,0,1650572784,"/usr/share/vim/vim81/doc/help.txt"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572741,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572741,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572741,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572741,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572701,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572701,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572701,"~/Ejercicio1/test.sh"
+-'  1  0  ~/Ejercicio1/test.sh
+|4,39,1,0,1650572701,"~/Ejercicio1/test.sh"
+
+# Historia de las marcas en los archivos (de la mÃ¡s reciente a la mÃ¡s antigua):
+
+> ~/Ejercicio1/Arch1.txt
+	*	1653977466	0
+	"	1	7
+	^	1	9
+	.	1	7
+	+	1	7
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1650572846	0
+	"	48	0
+
+> ~/Ejercicio1/test.sh
+	*	1650572780	0
+	"	1	7
+	^	1	8
+	.	1	8
+	+	1	8

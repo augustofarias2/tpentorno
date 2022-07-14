@@ -1,0 +1,4 @@
+https:accounts.google.com:443:.:^partitionKey=%28https%2Ctwitter.com%29:3	0	19103	https:accounts.google.com:443:accounts.google.com:443::n:1653164969:h3:y:1650572925:n:^partitionKey=%28https%2Ctwitter.com%29:|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	1	19103	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1653164935:h3:y:1650498871:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:www.googletagmanager.com:443:.:^partitionKey=%28https%2Cubuntu.com%29:3	0	19102	https:www.googletagmanager.com:443:www.googletagmanager.com:443::n:1653090905:h3:y:1650498871:n:^partitionKey=%28https%2Cubuntu.com%29:|n:y:
+https:www.google-analytics.com:443:.:^partitionKey=%28https%2Cubuntu.com%29:3	0	19102	https:www.google-analytics.com:443:www.google-analytics.com:443::n:1653091001:h3:y:1650498871:n:^partitionKey=%28https%2Cubuntu.com%29:|n:y:
